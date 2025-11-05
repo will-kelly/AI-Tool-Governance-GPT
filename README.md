@@ -1,7 +1,3 @@
-Here’s a complete **GitHub README** for your project:
-
----
-
 # AIToolchainGovernanceGPT
 
 AIToolchainGovernanceGPT builds structured, audit-ready governance playbooks for AI-generated content across Notion, GitHub, and Confluence. It defines how human and AI contributors share responsibility for content quality, labeling, and traceability in automated publishing systems.
